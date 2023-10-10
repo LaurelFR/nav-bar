@@ -9,6 +9,26 @@
   color: blueviolet;
 }
 
+.fa-bars {
+  font-size: 35px;
+  color: blueviolet;
+  cursor: pointer;
+}
+
 .NavBar h3 {
   margin-right: 50px;
+}
+
+.NavBar h3:hover {
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.NavBar h5:hover {
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.pop-menu {
+  padding: 30px;
 }
