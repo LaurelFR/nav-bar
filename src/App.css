@@ -32,3 +32,24 @@
 .pop-menu {
   padding: 30px;
 }
+
+@media (max-width: 1130px) {
+  .NavBar h3 {
+    font-size: 22px;
+    margin-right: 30px;
+  }
+}
+
+@media (max-width: 840px) {
+  .NavBar h3 {
+    font-size: 20px;
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 700px) {
+  .NavBar h3 {
+    font-size: 18px;
+    margin-right: 12px;
+  }
+}
